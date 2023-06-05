@@ -1,9 +1,11 @@
 [{
     "username": "admin",
-    "password": "admin"
+    "password": "admin",
+    "permission": "top-level"
 }
 ,
 {
     "username": "kaya",
-    "password": "123"
+    "password": "123",
+    "permission": "top-level"
 }]
