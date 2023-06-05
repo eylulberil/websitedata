@@ -1,17 +1,22 @@
-[{
+[
+  {
     "username": "admin",
     "password": "admin",
     "permission": "top-level"
-}
-,
-{
+  },
+  {
     "username": "kaya",
     "password": "123",
     "permission": "top-level"
-}
-,
-{
+  },
+  {
     "username": "anan",
     "password": "baban",
     "permission": "low-level"
-}]
+  },
+  {
+    "username": "EDIT username",
+    "password": "EDIT password",
+    "permission": "EDIT permission"
+  }
+]
