@@ -1,33 +1,15 @@
 [
   {
-    "name": "Çizgili Pijamalı Çocuk",
-    "writer": "John Boyne",
-    "language": "Türkçe",
-    "format": "Roman",
-    "subject": "Çizgili Pijamalı Çocuk, İrlandalı yazar John Boyne'un 2006 yılında yazdığı bir Holokost romanıdır. Arsa, babası Auschwitz'in komutanı olan Bruno adında bir Alman çocuk ve Bruno'nun Shmuel adlı bir Yahudi tutuklu ile arkadaşlığı ile ilgilidir.",
-    "link": "https://www.kitapyurdu.com/kitap/cizgili-pijamali-cocuk/95889.html",
     "username": "admin",
     "password": "admin",
     "permission": "top-level"
   },
   {
-    "name": "Çizgili gömlek",
-    "writer": "benimkitap",
-    "language": "yunanca",
-    "format": "salatalık",
-    "subject": "burda uzun bir şeyler görmeyi beklediğini biliyorum ondan yazı yazmaya karar verdim",
-    "link": "https://kayainthehouse.com",
     "username": "kaya",
     "password": "123",
     "permission": "top-level"
   },
   {
-    "name": "Çizgili bina",
-    "writer": "Eylül Beril",
-    "language": "C programlama",
-    "format": "Bilmem kiii",
-    "subject": "konusuz",
-    "link": "https://www.berilim.com",
     "username": "anan",
     "password": "baban",
     "permission": "low-level"
