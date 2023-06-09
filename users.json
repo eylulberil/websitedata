@@ -13,5 +13,10 @@
     "username": "anan",
     "password": "baban",
     "permission": "low-level"
+  },
+  {
+    "username": "getem",
+    "password": "Getem2006",
+    "permission": "EDIT permission"
   }
 ]
