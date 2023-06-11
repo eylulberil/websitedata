@@ -16,14 +16,6 @@
     "link": "https://kayainthehouse.com"
   },
   {
-    "name": "Çizgili bina",
-    "writer": "Eylül Beril",
-    "language": "C programlama",
-    "format": "Bilmem kiii",
-    "subject": "konulu",
-    "link": "https://www.berilim.com"
-  },
-  {
     "name": "Altıncı Koğuş",
     "writer": "Anton Çehov",
     "language": "Türkçe",
@@ -38,5 +30,13 @@
     "format": "encati",
     "subject": "ergin gülüp oynyor",
     "link": "https://www.plepa.com"
+  },
+  {
+    "name": "Ropdöşambır",
+    "writer": "Kaya Sertel",
+    "language": "Türkçe",
+    "format": "Şiir",
+    "subject": "Kaya Sertel'in akrostişleri",
+    "link": "www.sınav.com"
   }
 ]
