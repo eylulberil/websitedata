@@ -2,7 +2,7 @@
   {
     "username": "admin",
     "password": "admin",
-    "permission": "low-level"
+    "permission": "top-level"
   },
   {
     "username": "kayasertel",
@@ -12,7 +12,7 @@
   {
     "username": "engin",
     "password": "denemesifre",
-    "permission": "top-level"
+    "permission": "low-level"
   },
   {
     "username": "getem",
