@@ -2,7 +2,7 @@
   {
     "username": "admin",
     "password": "admin",
-    "permission": "top-level"
+    "permission": "low-level"
   },
   {
     "username": "kayasertel",
