@@ -5,18 +5,18 @@
     "permission": "top-level"
   },
   {
-    "username": "kayasertel",
-    "password": "kaya123",
+    "username": "kaya",
+    "password": "1234",
     "permission": "top-level"
   },
   {
-    "username": "anan",
-    "password": "baban",
+    "username": "engin",
+    "password": "denemesifre",
     "permission": "low-level"
   },
   {
     "username": "getem",
     "password": "Getem2006",
-    "permission": "low-level"
+    "permission": "low"
   }
 ]
