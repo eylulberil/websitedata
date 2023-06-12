@@ -10,13 +10,13 @@
     "permission": "low-level"
   },
   {
-    "username": "denemekullanıcı",
-    "password": "şifredenemesi",
-    "permission": "low-level"
+    "username": "enginn",
+    "password": "deneme2",
+    "permission": "top-level"
   },
   {
     "username": "getem",
     "password": "Getem2006",
-    "permission": "low-level"
+    "permission": "top-level"
   }
 ]
